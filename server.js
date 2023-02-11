@@ -1,7 +1,7 @@
 const server = require("http").createServer();
 const cors = require("cors");
 
-server.use(cors());
+// server.use(cors());
 
 const io = require("socket.io")(server, {
   cors: {
