@@ -10,6 +10,7 @@
   "author": "Ing. Sneider",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "socket.io": "^4.6.0"
   }
 }
